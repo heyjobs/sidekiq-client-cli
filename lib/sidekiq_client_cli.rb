@@ -1,4 +1,5 @@
 require 'sidekiq'
+require 'sidekiq/api'
 require_relative 'sidekiq_client_cli/version'
 require_relative 'sidekiq_client_cli/parser'
 
